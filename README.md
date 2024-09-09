@@ -30,20 +30,6 @@ Hey there! I'm Bhargav, a final-year Computer Science student with a passion for
 - 👨‍💻 **Open-Source Contributor:** Actively contributing to open-source projects, with a focus on cloud computing and web development.
 - 🏅 **Top Performer in GeeksforGeeks Weekly Contest:** Ranked top 2 in the contest with 400 Geek Bits awaiting!
 - 🌐 **Built Scalable E-Commerce Platform:** Created a scalable infrastructure with fraud detection using Google Cloud tools, Next.js, Tailwind CSS, and more.
-  
-## Notable Projects 💼
-
-### 1. **E-Commerce Platform with Fraud Detection**  
-A scalable e-commerce infrastructure with features like a product tracking system, order section, chatbot, and fraud detection.  
-**Tech Stack:** Next.js, Tailwind CSS, Google Cloud (BigQuery, CDN, Kubernetes Engine), Firebase, Cloud Vision API
-
-### 2. **AI-Based Proctored Exam Platform**  
-An AI-based exam platform that uses cloud computing for secure and scalable exam monitoring. Won 3rd prize at a hackathon!  
-**Tech Stack:** Next.js, Google Cloud, Firebase
-
-### 3. **Arcade Helper Tool**  
-A web app that assists users participating in Google Arcade events, providing resources, points calculators, and event info.  
-**Tech Stack:** Next.js, Tailwind CSS, JavaScript
 
 ## Community Involvement 🌍
 
