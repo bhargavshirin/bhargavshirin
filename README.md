@@ -37,7 +37,7 @@ Hey there! I'm Bhargav, a final-year Computer Science student with a passion for
 - 🚀 **Mentor:** Helping peers in the community by sharing knowledge on Data Structures, Algorithms, and Cloud Computing.
 
 ## Connect with Me 📬
-- LinkedIn: [Bhargav Shirin Nalamati](https://www.linkedin.com/in/your-link)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: bhargav.yourmail@domain.com
+- LinkedIn: [Bhargav Shirin Nalamati](https://www.linkedin.com/in/bhargav-shirin-nalamati-34092a263/)
+- GitHub: [github.com/bhargavshirin](https://github.com/bhargavshirin)
+- Email: nalamatibhargavshirin@gmail.com
 
