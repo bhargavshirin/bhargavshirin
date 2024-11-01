@@ -14,7 +14,7 @@ Hey there! I'm Bhargav, a final-year Computer Science student with a passion for
 ### Technical Skills:
 - **Programming Languages:** C++, Java, TypeScript, JavaScript
 - **Frameworks/Libraries:** Next.js, React, Tailwind CSS
-- **Cloud Technologies:** Google Cloud (BigQuery, Kubernetes Engine, Cloud Vision API, Load Balancer, CDN), Firebase
+- **Cloud Technologies:** Google Cloud (BigQuery, Kubernetes Engine, Load Balancer, CDN), Firebase
 - **Databases:** Firestore, BigQuery
 - **DevOps Tools:** Kubernetes, Docker
 
